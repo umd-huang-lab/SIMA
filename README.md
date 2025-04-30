@@ -4,7 +4,7 @@
 <div align="center">
 </div>
 <div align="center">
-    <a href="https://huggingface.co/datasets/YiyangAiLab/POVID_preference_data_for_VLLMs"><img src="https://huggingface.co/datasets/huggingface/badges/raw/main/open-in-hf-spaces-sm-dark.svg" alt="Open in Spaces"></a>
+    <a href="https://huggingface.co/collections/furonghuang-lab/sima-681254c8c5440481244c5671"><img src="https://huggingface.co/datasets/huggingface/badges/raw/main/open-in-hf-spaces-sm-dark.svg" alt="Open in Spaces"></a>
     <a href="https://arxiv.org/pdf/2405.15973"><img src="assets/Paper-Arxiv-orange.svg" ></a>
     <a href="https://x.com/furongh/status/1796373642382577746"><img src='assets/-twitter-blue.svg'></a>
 </div>
